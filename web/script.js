@@ -5,7 +5,7 @@ const para = document.getElementById("jokePara")
 const emo = document.getElementById("emoji")
 const jbb = document.getElementsByClassName("jbb")
 function coffee(){
-    alert("Buy me a coffee you moron!!")
+    alert("Buy me a coffee!!")
 }
 setTimeout(coffee,3000)
 function emoji(){
