@@ -1,0 +1,22 @@
+{
+    "name":"Dad Jokes",
+    "short_name":"DJ",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#FFE17B",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"This is a Joke PWA lol. Have fun",
+    "icons":[
+    {
+    "src":"images/icon-192x192.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/icon-512x512.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
